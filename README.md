@@ -8,7 +8,7 @@
 **프로젝트 기간**: 2025.04 ~ 2025.05  
 **담당 역할**: 백엔드 개발 (리뷰/주문/키워드 기능, 모니터링, 테스트 문서)  
 **팀 구성**: 백엔드 개발자 5인 (프론트엔드 미구현)  
-**GitHub**: [https://github.com/polaris65b/bookKing](https://github.com/polaris65b/bookKing)
+**GitHub**: [[https://github.com/polaris65b/bookKing](https://github.com/polaris65b/bookKing](https://github.com/BigFunnyMountain/bookKing))
 
 ---
 
